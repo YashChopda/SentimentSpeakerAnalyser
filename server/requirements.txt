@@ -1,0 +1,6 @@
+openai
+transformers
+tiktoken
+flask
+flask-cors
+requests
