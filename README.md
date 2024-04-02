@@ -66,11 +66,11 @@ Alternatively, you can choose to build a Docker container using the Dockerfile p
 ## Usage
 
 1. Access the web application in your browser. Follow the given steps:
-2. Open index.html with any web browser(tested with chrome and safari). An interface will open. ![Web Interface](images/Screenshot%202024-03-26%20at%206.38.03 PM.png)
-3. Select and Upload a text or audio file using the provided interface. ![Text/Audio Interface](images/Screenshot%202024-03-26%20at%206.38.15 PM.png)
-![Selection of file](images/Screenshot%202024-03-26%20at%206.38.33 PM.png)
-4. Wait for the processing to complete. ![Processing](images/Screenshot%202024-03-26%20at%206.39.23 PM.png)
-5. View the processed sentiment analysis. ![Result](images/Screenshot%202024-03-26%20at%206.38.46 PM.png)
+2. Open index.html with any web browser(tested with chrome and safari). An interface will open. ![Web Interface](images/Screenshot%202024-04-02%20at%207.07.42 PM.png)
+3. Select and Upload a text or audio file using the provided interface. ![Text/Audio Interface](images/Screenshot%202024-04-02%20at%207.08.06 PM.png)
+![Selection of file](images/Screenshot%202024-04-02%20at%207.08.27 PM.png)
+4. Wait for the processing to complete. ![Processing](images/Screenshot%202024-04-02%20at%207.08.56 PM.png)
+5. View the processed sentiment analysis. ![Result](images/Screenshot%202024-04-02%20at%207.09.08 PM.png)
 
 ## Challenges Faced
 1. To run it locally I used CPU, which made the processing quite slow, as the model training for first instance took longer.
